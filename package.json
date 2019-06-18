@@ -1,0 +1,27 @@
+{
+  "name": "@ali/node-hot-require",
+  "version": "1.0.0",
+  "description": "reload required module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:xuewei.lxw/node-hot-require.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  },
+  "keywords": [
+    "node",
+    "require"
+  ],
+  "author": "xuewei.lxw",
+  "license": "MIT",
+  "homepage": "http://gitlab.alibaba-inc.com/xuewei.lxw/node-hot-require#readme",
+  "dependencies": {
+    "callsites": "^2.0.0",
+    "chokidar": "^1.7.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
