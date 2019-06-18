@@ -8,7 +8,7 @@
     "url": "git@github.com:liuxuewei/hot-require-module.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
+    "registry": "https://registry.npmjs.org"
   },
   "keywords": [
     "node",
